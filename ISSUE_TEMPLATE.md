@@ -3,6 +3,7 @@ Title
 
 ## Detailed description:
 Detailed description
+
 ## Related documents and links
 * [Links here](/thelink)
 
