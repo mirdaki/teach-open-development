@@ -1,22 +1,13 @@
-# Approach
+# Teach Open Development
 
-- Instruction page on template
-	- Find a project
-	- See how to help
-	- Add your work
-	- Get/Give feedback
-	- Update work
-- Story outline
-	- Tux awoke one morning to find that ...
-	- Tux knew he was the only one able to ...
-	- ... and thats when the worst thing happened ...
-	- ... only with the power of ...
-	- He smiled, his journey was done.
+The goal of this project is to help teach open source development with out using code or Git. This makes learning it less intimidating and applicable to other fields aside from software.
+
+Created for Mozilla Campus Clubs.
 
 ## Addons Activity for Mozilla Campus Clubs program
 
-[Check the activity in this link](https://mozillacampusclubs.github.io/becomeVRRockstar/) for introducing your club members into WebExtensions Addons
-
+[Check the activity in this link](https://mirdaki.github.io/teach-open-development/)
 
 ## Credits
+
 - [Xiaoying Riley](https://twitter.com/3rdwave_themes) who created the original theme
