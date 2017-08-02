@@ -1,17 +1,5 @@
-## Browser Addon Title:
-Title
+## Title of Story or Suggestion
 
-## Detailed description:
-Detailed description
+You can put your story or link it here.
 
-## Related documents and links
-* [Links here](/thelink)
-
-## What is the problem you want to solve?
-brief description
-
-## Who is your audience?
-brief description
-
-## What is the impact your Addon will bring into your audience's life?
-brief description
+Or describe you suggestion to improve the activity!
